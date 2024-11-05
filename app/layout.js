@@ -2,7 +2,7 @@ import { Providers } from "../redux/provider";
 import "./globals.css";
 
 export const metadata = {
-  title: "NAXA Services",
+  title: "NAXA - Location Matters",
   description: "NAXA Services Page",
 };
 
