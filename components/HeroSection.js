@@ -4,8 +4,6 @@ export default function HeroSection() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="text-yellow-400 text-xl font-medium mb-6">Services</h2>
         <div className="max-w-4xl pl-0">
-          {" "}
-          {/* Removed default padding */}
           <h1 className="text-4xl md:text-6xl mb-8 text-gray-900 leading-tight">
             At <span className="text-blue-600">NAXA</span>, we work on{" "}
             <span className="text-blue-600">ideas</span>; ideas that can provide{" "}
