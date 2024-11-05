@@ -142,7 +142,7 @@ export default function Navbar() {
             <div className="flex items-center justify-center">
               {/* eslint-disable-next-line react/no-unescaped-entities */}
               <span className="group-hover:-translate-x-2 transition-all duration-200">
-                Let's talk
+                Let&apos;s talk
               </span>
               <ChevronRight
                 className="h-4 w-4 absolute transform opacity-0 group-hover:opacity-100 transition-all duration-200"
