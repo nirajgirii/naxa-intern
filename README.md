@@ -53,7 +53,7 @@ A modern, responsive recreation of NAXA's services page built with Next.js, Redu
 
 ## 🌟 Live Demo
 
-Check out the [live demo here](naxa-intern-git-main-niraj-giris-projects.vercel.app)
+Check out the [live demo here](naxa-intern.nirajgiri.me)
 
 ## 📝 License
 
