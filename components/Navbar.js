@@ -141,7 +141,7 @@ export default function Navbar() {
           <button className="bg-yellow-300 px-6 py-2 rounded-md font-medium text-gray-800 hover:bg-orange-300 transition-all duration-200 group w-32 relative">
             <div className="flex items-center justify-center">
               <span className="group-hover:-translate-x-2 transition-all duration-200">
-                Let's talk
+                Let&apos;s talk
               </span>
               <ChevronRight
                 className="h-4 w-4 absolute transform opacity-0 group-hover:opacity-100 transition-all duration-200"
