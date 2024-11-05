@@ -21,48 +21,39 @@ A modern, responsive recreation of NAXA's services page built with Next.js, Redu
 ## 🚀 Getting Started
 
 1. Clone this beauty:
-   ```bash
-   git clone https://github.com/nirajgirii/naxa-services-clone.git
-   ```
 
-````
+   git clone https://github.com/nirajgirii/naxa-intern.git
 
 2. Install the goodies:
 
-   ```bash
-   cd naxa-services-clone
+   cd naxa-intern
    npm install
-   ```
 
 3. Fire it up:
 
-   ```bash
    npm run dev
-   ```
 
 4. Visit [http://localhost:3000](http://localhost:3000) and enjoy! 🎉
 
 ## 📁 Project Structure
 
-```
 ├── app/
-│   ├── layout.js
-│   └── page.js
+│ ├── layout.js
+│ └── page.js
 ├── components/
-│   ├── HeroSection.js
-│   ├── Navbar.js
-│   └── ServiceSection.js
+│ ├── HeroSection.js
+│ ├── Navbar.js
+│ └── ServiceSection.js
 ├── redux/
-│   ├── provider.js
-│   ├── servicesSaga.js
-│   ├── servicesSlice.js
-│   └── store.js
+│ ├── provider.js
+│ ├── servicesSaga.js
+│ ├── servicesSlice.js
+│ └── store.js
 └── public/
-```
 
 ## 🌟 Live Demo
 
-Check out the [live demo here](https://naxa-services-clone-demo.com)
+Check out the [live demo here](naxa-intern-git-main-niraj-giris-projects.vercel.app)
 
 ## 📝 License
 
@@ -78,4 +69,7 @@ Happy coding! 🎨 ✨
 ```
 
 ```
-````
+
+```
+
+```
