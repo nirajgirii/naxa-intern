@@ -31,7 +31,7 @@ export default function Navbar() {
           </div>
 
           <div className="hidden md:flex items-center space-x-8">
-            <Link href="/services" className="text-black    -600 font-medium">
+            <Link href="/services" className="text-black font-medium">
               Services
             </Link>
 
